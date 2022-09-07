@@ -1,3 +1,10 @@
+`ORG.SGF:`
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Special-graphic-formats/svd)
+![GitHub Release Date](https://img.shields.io/github/release-date/Special-graphic-formats/svd)
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/svd)
+![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/svd/total)
+![GitHub](https://img.shields.io/github/license/Special-graphic-formats/svd)  
+
 # SVD
 
 ### Playing with lossy image compression based on the singular value decomposition
